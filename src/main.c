@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main() {
-  printf("Piscine Prep 2025\n");
-  printf("Pietro Alberti\n");
+  printf("👨🏻‍🏫 Pietro Alberti\n");
+  printf("👩🏻‍🎓 Alisa Feofanova\n");
   return 0;
 }
